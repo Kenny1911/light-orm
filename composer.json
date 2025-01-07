@@ -1,0 +1,21 @@
+{
+    "name": "kenny1911/light-orm",
+    "description": "Light Write-Only ORM",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kenny1911\\LightOrm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kenny1911",
+            "email": "o-muzyka@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.4"
+    }
+}
