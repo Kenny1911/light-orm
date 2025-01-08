@@ -18,5 +18,8 @@
     "require": {
         "php": "^8.4",
         "doctrine/dbal": "^4"
+    },
+    "scripts": {
+        "phpstan": "./tools/phpstan/vendor/bin/phpstan analyse"
     }
 }
